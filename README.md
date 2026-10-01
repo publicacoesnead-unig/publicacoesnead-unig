@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **Publicações NEAD - UNIG** 
 
 🔭A comunidade NEaD Publicações Científicas reúne e organiza produções acadêmicas vinculadas ao Núcleo de Educação a Distância da Universidade Iguaçu (UNIG), incluindo resultados de ensino, pesquisa e extensão universitária.
