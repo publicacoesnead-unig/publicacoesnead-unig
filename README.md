@@ -1,4 +1,5 @@
-<img src=https://github.com/publicacoesnead-unig/identidadeComunidade/blob/main/BannerZenodo.png>
+<img src=https://github.com/publicacoesnead-unig/identidadeComunidade/blob/main/BannerZenodo.png >
+
 **Publicações NEAD - UNIG** 
 
 🔭A comunidade NEaD Publicações Científicas reúne e organiza produções acadêmicas vinculadas ao Núcleo de Educação a Distância da Universidade Iguaçu (UNIG), incluindo resultados de ensino, pesquisa e extensão universitária.
