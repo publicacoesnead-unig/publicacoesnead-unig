@@ -1,3 +1,4 @@
+<img src=https://github.com/publicacoesnead-unig/identidadeComunidade/blob/main/BannerZenodo.png>
 **Publicações NEAD - UNIG** 
 
 🔭A comunidade NEaD Publicações Científicas reúne e organiza produções acadêmicas vinculadas ao Núcleo de Educação a Distância da Universidade Iguaçu (UNIG), incluindo resultados de ensino, pesquisa e extensão universitária.
@@ -17,3 +18,4 @@ Em trabalhos de extensão universitária, os responsáveis devem observar os com
 A equipe poderá recusar registros fora do escopo, incompletos, ilegíveis ou com dúvidas relevantes quanto à autoria, às permissões de uso ou à observância de princípios éticos e legais. Os registros publicados também estão sujeitos às políticas e aos termos de uso do Zenodo.
 
 Responsáveis pela comunidade: Claudia Antunes Ruas Guimarães e Denise Moraes do Nascimento Vieira.
+Comunidade no Zenodo: https://zenodo.org/communities/pubneadunig/records?q=&l=list&p=1&s=10&sort=newest
